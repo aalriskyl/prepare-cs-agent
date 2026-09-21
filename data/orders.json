@@ -1,0 +1,8 @@
+{
+  "INV001": {"nama": "Budi Santoso", "produk": ["PREPARE Men's Face Wash - Active Charcoal"], "total": 89000, "status": "Selesai", "kurir": "JNE", "resi": "JNE1100234567", "tanggal": "2026-09-14"},
+  "INV002": {"nama": "Andi Wijaya", "produk": ["PREPARE Hair Tonic - Anti Hair Fall", "PREPARE Deo Spray - 48H Protection"], "total": 190000, "status": "Dalam pengiriman", "kurir": "SiCepat", "resi": "SCP009812345", "tanggal": "2026-09-19", "estimasi_tiba": "2026-09-22"},
+  "INV003": {"nama": "Rizky Pratama", "produk": ["PREPARE Body Lotion - Deep Moisture"], "total": 79000, "status": "Sedang diproses gudang", "kurir": "J&T", "resi": null, "tanggal": "2026-09-21"},
+  "INV004": {"nama": "Dimas Saputra", "produk": ["PREPARE Pomade - Matte Finish"], "total": 95000, "status": "Dibatalkan (stok habis, dana dikembalikan)", "kurir": null, "resi": null, "tanggal": "2026-09-18"},
+  "INV005": {"nama": "Fajar Nugroho", "produk": ["PREPARE Men's Face Wash - Active Charcoal", "PREPARE Body Lotion - Deep Moisture"], "total": 168000, "status": "Dalam pengiriman", "kurir": "GoSend", "resi": "GS-77812", "tanggal": "2026-09-21", "estimasi_tiba": "2026-09-21"},
+  "INV006": {"nama": "Yoga Permana", "produk": ["PREPARE Deo Spray - 48H Protection"], "total": 65000, "status": "Selesai", "kurir": "JNE", "resi": "JNE1100299881", "tanggal": "2026-09-10"}
+}

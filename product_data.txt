@@ -1,0 +1,60 @@
+[KATALOG PRODUK PREPARE]
+
+=== PRODUK 1: PREPARE Men's Face Wash ===
+Nama: PREPARE Men's Face Wash - Active Charcoal
+Harga: Rp 89.000
+Kategori: Perawatan Wajah Pria
+Stok: 150 unit
+Deskripsi: Sabun muka pria dengan kandungan activated charcoal yang efektif mengangkat minyak berlebih dan kotoran tanpa membuat kulit kering. Cocok untuk kulit berminyak dan berjerawat.
+Cara Pakai: Basahi wajah, tuang secukupnya, usap merata dengan gerakan melingkar, bilas bersih. Gunakan 2x sehari (pagi dan malam).
+Bahan Utama: Activated Charcoal, Salicylic Acid 2%, Aloe Vera Extract, Niacinamide.
+
+=== PRODUK 2: PREPARE Hair Tonic ===
+Nama: PREPARE Hair Tonic - Anti Hair Fall
+Harga: Rp 125.000
+Kategori: Perawatan Rambut Pria
+Stok: 85 unit
+Deskripsi: Hair tonic yang diformulasikan khusus untuk mengurangi kerontokan rambut pria. Mengandung biotin dan caffeine yang menstimulasi pertumbuhan rambut baru dan memperkuat akar rambut.
+Cara Pakai: Semprotkan ke kulit kepala setelah keramas, pijat lembut selama 2-3 menit. Tidak perlu dibilas. Gunakan setiap hari untuk hasil optimal.
+Bahan Utama: Biotin, Caffeine, Saw Palmetto Extract, Peppermint Oil.
+
+=== PRODUK 3: PREPARE Deodorant Spray ===
+Nama: PREPARE Deo Spray - 48H Protection
+Harga: Rp 65.000
+Kategori: Deodoran Pria
+Stok: 200 unit
+Deskripsi: Deodoran spray tahan 48 jam dengan aroma maskulin yang segar. Formula anti-bakteri mencegah bau badan sepanjang hari tanpa meninggalkan noda putih di pakaian.
+Cara Pakai: Kocok sebelum pakai, semprotkan dari jarak 15 cm ke area ketiak yang bersih dan kering. Hindari area kulit yang terluka.
+Bahan Utama: Zinc Ricinoleate, Triclosan, Fragrance Blend (Cedarwood & Bergamot).
+
+=== PRODUK 4: PREPARE Body Lotion ===
+Nama: PREPARE Body Lotion - Deep Moisture
+Harga: Rp 79.000
+Kategori: Perawatan Tubuh Pria
+Stok: 120 unit
+Deskripsi: Body lotion ringan yang cepat menyerap tanpa terasa lengket. Melembapkan kulit hingga 24 jam dengan kandungan shea butter dan vitamin E. Aroma woody-fresh yang subtle.
+Cara Pakai: Oleskan secukupnya ke seluruh tubuh setelah mandi, fokuskan pada area kulit kering (siku, lutut, tumit).
+Bahan Utama: Shea Butter, Vitamin E, Hyaluronic Acid, Jojoba Oil.
+
+=== PRODUK 5: PREPARE Pomade ===
+Nama: PREPARE Pomade - Matte Finish
+Harga: Rp 95.000
+Kategori: Styling Rambut Pria
+Stok: 0 unit (HABIS)
+Deskripsi: Pomade water-based dengan hasil akhir matte natural. Hold medium-strong yang fleksibel, mudah di-restyle sepanjang hari. Mudah dicuci dengan air tanpa residu.
+Cara Pakai: Ambil sedikit dengan jari, ratakan di kedua telapak tangan, aplikasikan ke rambut yang sedikit lembap atau kering. Style sesuai keinginan.
+Bahan Utama: Beeswax, Kaolin Clay, Castor Oil, Vitamin B5.
+
+[INFORMASI PERUSAHAAN]
+Nama: PREPARE
+Bidang: Personal Care / Perawatan Diri Pria
+Berdiri: 2018
+Lokasi: Green Lake City, Cipondoh, Kota Tangerang (perbatasan Jakarta Barat)
+Visi: Menjadi brand perawatan pria #1 di Indonesia yang accessible dan berkualitas.
+Target Market: Pria usia 18-35 tahun, urban, aktif.
+
+[KEBIJAKAN TOKO]
+Pengiriman: Gratis ongkir untuk pembelian di atas Rp 150.000 (area Jabodetabek).
+Retur: Produk bisa diretur dalam 7 hari jika masih tersegel dan ada bukti pembelian.
+Pembayaran: Transfer bank, e-wallet (GoPay, OVO, Dana), COD (khusus Jabodetabek).
+Jam Operasional CS: Senin-Jumat 09:00-17:00, Sabtu 09:00-13:00.
